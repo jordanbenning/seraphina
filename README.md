@@ -1,0 +1,2 @@
+# seraphina
+Personal AI assistant
